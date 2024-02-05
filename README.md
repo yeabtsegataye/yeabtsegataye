@@ -24,7 +24,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,javascript,bootstrap,html,css,github,gitlab,figma,tailwind,docker,kubernetes" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,express,mongodb,java,mysql,django,jenkins,jest,aws,selenium,firebase,postman,php,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,java,mysql,jenkins,mocha,aws,selenium,firebase,postman,php,cpp" /><br>
 </div>
 
 <br/>
